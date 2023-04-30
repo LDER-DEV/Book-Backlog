@@ -1,0 +1,42 @@
+body{
+  background: url('images/books.svg');
+  color:white;
+}
+h3{
+  margin-top: 40px;
+}
+h1{
+  color:white;
+}
+
+ul{
+      display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.355);
+    color: white;
+    list-style: none;
+    border-radius: 25px;
+    flex-wrap: nowrap;
+}
+label{
+  background-color: rgba(0, 0, 0, 0.398);
+  border-radius: 5px;
+}
+.notes{
+  background:rgba(255, 255, 255, 0.379);
+  border-radius: 20px;
+}
+li{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.355);
+  color: white;
+  list-style: none;
+  border-radius: 25px;
+  flex-wrap: nowrap;
+}
+span{
+border:3px solid black;
+}
