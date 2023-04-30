@@ -1,11 +1,3 @@
-![21 Savage](public/21savage.jpg)
+![Book backlog](https://user-images.githubusercontent.com/126501848/235373339-33426081-074f-4010-820b-49e4d39fec84.jpg)
 
-## Installation
 
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `npm run savage`
-2. Navigate to `localhost:3000`
